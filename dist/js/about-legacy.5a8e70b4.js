@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkv2test"]=self["webpackChunkv2test"]||[]).push([[443],{5233:function(e,t,s){s.r(t),s.d(t,{default:function(){return l}});var a=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"about"},[a("h1",[e._v("This is an about page11111")]),a("img",{directives:[{name:"viewer",rawName:"v-viewer"}],attrs:{alt:"Vue logo",src:s(6949)}})])},n=[],r=s(1001),u={},i=(0,r.Z)(u,a,n,!1,null,null,null),l=i.exports}}]);
+//# sourceMappingURL=about-legacy.5a8e70b4.js.map
